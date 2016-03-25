@@ -1,0 +1,6 @@
+framework module MyControllSDK {
+  umbrella header "MyControllSDK.h"
+
+  export *
+  module * { export * }
+}

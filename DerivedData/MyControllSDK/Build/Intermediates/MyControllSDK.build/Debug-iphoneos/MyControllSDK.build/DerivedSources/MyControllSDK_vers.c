@@ -1,0 +1,1 @@
+ const unsigned char MyControllSDKVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:MyControllSDK  PROJECT:MyControllSDK-1" "\n"; const double MyControllSDKVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/guangqiang/Desktop/MyControllSDK/DerivedData/MyControllSDK/Build/Products/Debug-iphoneos/MyControllSDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MyControl.h",
+          'external-contents': "/Users/guangqiang/Desktop/MyControllSDK/MyControllSDK/MyControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "MyControllSDK-Swift.h",
+          'external-contents': "/Users/guangqiang/Desktop/MyControllSDK/DerivedData/MyControllSDK/Build/Products/Debug-iphoneos/MyControllSDK.framework/Headers/MyControllSDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MyControllSDK.h",
+          'external-contents': "/Users/guangqiang/Desktop/MyControllSDK/MyControllSDK/MyControllSDK.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/guangqiang/Desktop/MyControllSDK/DerivedData/MyControllSDK/Build/Products/Debug-iphoneos/MyControllSDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/guangqiang/Desktop/MyControllSDK/DerivedData/MyControllSDK/Build/Intermediates/MyControllSDK.build/Debug-iphoneos/MyControllSDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
